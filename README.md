@@ -22,6 +22,19 @@ I'm passionate about cybersecurity, and I work on a website to share my findings
 - 🔒 Analyzing **NIST Cybersecurity Framework (CSF) 2.0** implementations
 
 
+![Skills](https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
+![Linux](https://img.shields.io/badge/Linux%20(Arch/Parrot)-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+
 ![Certifications](https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&section=header&text=Licenses%20and%20Certifications&fontSize=22&fontColor=fff)
 
 #### 🛡️ Cybersecurity & Blue Team Operations
@@ -42,28 +55,6 @@ I'm passionate about cybersecurity, and I work on a website to share my findings
 - 🧱 **Certificado en Desarrollo de Aplicaciones Iniciales (POO)** — INACAP `Mar 2025`
 - 🐍 **Introducción a la Programación con Python** — Santander Open Academy `Oct 2024` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/)_
 
-#### ☁️ Cloud Computing & Artificial Intelligence (AWS)
-- 🤖 **Exploring Artificial Intelligence Use Cases and Applications** — AWS `Jun 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/1152573781/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
-- 🧠 **Fundamentals of Machine Learning and Artificial Intelligence** — AWS `Jun 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/1134098958/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
-- ☁️ **AWS Cloud Practitioner Essentials** — AWS `Feb 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/643332386/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
-
-#### 💻 Networking & Software Development
-- 🎛️ **Networking Basics** — Cisco `Mar 2026` • _[Verify Credential](https://www.credly.com/badges/c2957ccc-f6ff-49fd-8b91-adaf72c810f3/linked_in_profile)_
-- 🧱 **Certificado en Desarrollo de Aplicaciones Iniciales (POO)** — INACAP `Mar 2025`
-- 🐍 **Introducción a la Programación con Python** — Santander Open Academy `Oct 2024` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/287723962/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
-
-
-![Skills](https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-
-![Linux](https://img.shields.io/badge/Linux%20(Arch/Parrot)-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
 
 ![Stats](https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
