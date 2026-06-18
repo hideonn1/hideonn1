@@ -15,6 +15,34 @@ I'm passionate about cybersecurity, and I work on a website to share my findings
 - 💬 Ask me about **Cybersecurity, Blue/Red Team ops, Web Development & Linux**
 - ⚡ I love powerbuilding, and I'm a huge fan of team tactical simulations and shooter videogames!
 
+
+### 🎯 Learning Path
+- 🛡️ Preparing for **RHCSA** (Red Hat Certified System Administrator)
+- 🚀 Future Path: **eJPTv2** (eLearnSecurity Certified Junior Penetration Tester) & Cisco **CCNA** (200-301)
+- 🔒 Analyzing **NIST Cybersecurity Framework (CSF) 2.0** implementations
+
+
+![Certifications](https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&section=header&text=Licenses%20%26%20Certifications&fontSize=22&fontColor=fff)
+
+#### 🛡️ Cybersecurity & Blue Team Operations
+- 💼 **Security Operations Center in Practice** — IBM `Jun 2026` • _[Verify Credential](https://www.credly.com/earner/earned/badge/e5378b49-fdc5-4ac1-979a-5e9eb49385e1)_
+- 🔍 **Getting Started with Threat Intelligence and Hunting** — IBM `Jun 2026` • _[Verify Credential](https://www.credly.com/badges/2c8121c5-e49f-482d-810a-94f998d42c7a/public_url)_
+- 📋 **Risk Management Framework for Systems and Organizations (NIST SP 800-37 Rev. 2)** — NIST `Jun 2026`
+- 🛡️ **AMSC - Auditoría a la Ciberseguridad** — 8.8 Academy `Apr 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/1444467524/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
+- 🎣 **Ciberseguridad: Phishing y Fraude Digital** — Contraloría General de la República de Chile `Apr 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/1271715660/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
+- 🌐 **Introduction to Cybersecurity** — Cisco `Apr 2025` • _[Verify Credential](https://www.credly.com/badges/14f5de64-e208-4e86-b232-e25a7fc4e140/linked_in_profile)_
+
+#### ☁️ Cloud Computing & Artificial Intelligence (AWS)
+- 🤖 **Exploring Artificial Intelligence Use Cases and Applications** — AWS `Jun 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/1152573781/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
+- 🧠 **Fundamentals of Machine Learning and Artificial Intelligence** — AWS `Jun 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/1134098958/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
+- ☁️ **AWS Cloud Practitioner Essentials** — AWS `Feb 2026` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/643332386/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
+
+#### 💻 Networking & Software Development
+- 🎛️ **Networking Basics** — Cisco `Mar 2026` • _[Verify Credential](https://www.credly.com/badges/c2957ccc-f6ff-49fd-8b91-adaf72c810f3/linked_in_profile)_
+- 🧱 **Certificado en Desarrollo de Aplicaciones Iniciales (POO)** — INACAP `Mar 2025`
+- 🐍 **Introducción a la Programación con Python** — Santander Open Academy `Oct 2024` • _[Verify Credential](https://www.linkedin.com/in/pedro-lorca-717064277/overlay/Certifications/287723962/treasury/?profileId=ACoAAEN2NQMB2UTw1w5EmrjKW5hxokpv2mZ3dYE)_
+
+
 ![Skills](https://capsule-render.vercel.app/api?type=rect&color=161b22&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
 
 <div align="center">
